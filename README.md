@@ -1,6 +1,7 @@
 # hawq-hadoop-allinone
 1.镜像内容
-参考https://github.com/wangzw/hawq-devel-env，制作的allinone的Docker镜像，包含hadoop、已经编译的hawq。
+参考https://github.com/wangzw/hawq-devel-env , 
+制作的allinone的Docker镜像，包含hadoop、已经编译的hawq。
 
 镜像文件命名为：jiadx/hawq-hadoop-allinone:centos7
 
